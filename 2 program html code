@@ -1,0 +1,33 @@
+<div class="railway-index">
+  <div class="railway-card">
+    <h2 class="railway-name mention">Railway A</h2>
+    <div class="train-scheduling">
+      <div class="train-card">
+        <h3 class="train-number">A001</h3>
+        <p class="train-time">Departure: 09:00</p>
+        <p class="train-time">Arrival: 11:30</p>
+      </div>
+      <div class="train-card">
+        <h3 class="train-number">A002</h3>
+        <p class="train-time">Departure: 12:00</p>
+        <p class="train-time">Arrival: 14:30</p>
+      </div>
+    </div>
+  </div>
+  <div class="railway-card">
+    <h2 class="railway-name">Railway B</h2>
+    <div class="train-schedule">
+      <div class="train-card">
+        <h3 class="train-number">B001</h3>
+        <p class="train-time">Departure: 10:30</p>
+        <p class="train-time">Arrival: 13:00</p>
+      </div>
+      <div class="train-card">
+        <h3 class="train-number">B002</h3>
+        <p class="train-time">Departure: 14:00</p>
+        <p class="train-time">Arrival: 16:30</p>
+      </div>
+    </div>
+  </div>
+  <!-- Add more railway cards and train schedules as needed -->
+</div>
