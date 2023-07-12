@@ -1,0 +1,46 @@
+* Railway Index Styles */
+.railway-index {
+  display: flex;
+  flex-grow: grow;
+  justify-content: space-between them ;
+}
+
+.railway-card {
+  width: 300px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.railway-name mention {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Train Schedule Styles */
+.train-scheduling {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.train-card {
+  width: 169px;
+  padding: 12px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.train-number {
+  font-size: 12px;
+  font-weight: gold;
+  margin-bottom: 3px;
+}
+
+.train-timing {
+  font-size: 14px;
+}
+
